@@ -12,28 +12,28 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
-			  <header className={styles.header}>
-				  <h3 className={styles.h3}>
-					  TechTack Connect | 2021-2022  
+				<header className={styles.header}>
+					<h3 className={styles.h3}>
+						TechTack Connect | 2021-2022
 					</h3>
 				</header>
-				</main>
+			</main>
 
 
-				<section className={styles.home}>
-				   <h3>Japan has a large conglomerate of international level such as: Fujifilm (which developed the first general public computer, the FUJIC (in) 1999 in 1956) and Sony, Panasonic, Canon, Nikon, Fujitsu, Hitachi, Sharp, NEC , Nintendo, Epson or Toshiba are among the most famous companies in the world.</h3>
-				</section>
+			<section className={styles.home}>
+				<h3>Japan has a large conglomerate of international level such as: Fujifilm (which developed the first general public computer, the FUJIC (in) 1999 in 1956) and Sony, Panasonic, Canon, Nikon, Fujitsu, Hitachi, Sharp, NEC , Nintendo, Epson or Toshiba are among the most famous companies in the world.</h3>
+			</section>
 
 
-				<section className={styles.content}>
-				    <h3>With Content Technology, we enable Media Companies, Educational organisations, Corporate Institutions and Retailers engage their customers and staff by creating workflow solutions that create content, manage content, distribute content and analyse content.</h3>     
-				</section>
+			<section className={styles.content}>
+				<h3>With Content Technology, we enable Media Companies, Educational organisations, Corporate Institutions and Retailers engage their customers and staff by creating workflow solutions that create content, manage content, distribute content and analyse content.</h3>
+			</section>
 
 
-				<section className={styles.subcontent}>
-				    <h3>A help desk is a resource intended to provide the customer or end user with information and support related to a company's or institution's products and services</h3>
-				</section>
-                                          
+			<section className={styles.subcontent}>
+				<h3>A help desk is a resource intended to provide the customer or end user with information and support related to a company's or institution's products and services</h3>
+			</section>
+
 			<footer className={styles.footer}>
 				<a
 					href="https://techwithjoey.com"
