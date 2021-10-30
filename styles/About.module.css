@@ -1,0 +1,9 @@
+.content {
+	padding: 100px;
+	background-color: lightcoral;
+}
+.content h3 {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
